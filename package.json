@@ -1,0 +1,24 @@
+{
+  "name": "grid-placement-algorithm",
+  "version": "1.0.0",
+  "description": "An example of loosely defining a css grid layout by exploiting the grid placement algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm.git"
+  },
+  "keywords": [
+    "css",
+    "css-grid-layout",
+    "html"
+  ],
+  "author": "Enrico Massone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm/issues"
+  },
+  "homepage": "https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm#readme"
+}
