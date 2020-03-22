@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm/issues"
   },
-  "homepage": "https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm#readme"
+  "homepage": "https://github.com/EnricoMassoneDeltatre/grid-placement-algorithm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
